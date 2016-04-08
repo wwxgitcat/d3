@@ -8,3 +8,4 @@ habari小型博客系统
 
 PHP环境需要5.3版本以上
 修改
+hahaha
