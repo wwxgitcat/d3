@@ -23,3 +23,65 @@
 2015-12-23	Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30	127.0.0.1	http://localhost/habari/page/2
 2015-12-23	Habari/0.9.2	127.0.0.1	
 2015-12-23	Mozilla/5.0 (Linux; U; Android 4.4.4; Nexus 5 Build/KTU84P) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30	127.0.0.1	http://localhost/habari/page/3
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/import
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/posts?type=1
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/publish?content_type=entry
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/themes
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/themes
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/themes
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/themes
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/themes
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/plugins
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/import
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/users
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/user
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/groups
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/logs
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Habari/0.9.2	127.0.0.1	
+2016-04-08	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36	127.0.0.1	http://localhost/habari/admin/posts?type=1
